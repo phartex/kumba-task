@@ -1,0 +1,28 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.main-part{
+    margin: 0 auto;
+    justify-content: center;
+    width: 70%;
+    text-align: left;
+    margin-top: 2em;
+}
+.order-item{
+    display: flex;
+    flex-direction: row;
+}
+.quantity{
+    margin-left: 2em;
+}
+.price{
+    margin-left: 2em;
+}
+.tax{
+    margin-left: 2em;
+}
+.category{
+    margin-left: 2em;
+}
